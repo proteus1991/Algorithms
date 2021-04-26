@@ -5,6 +5,7 @@ author: Xiaohong Liu
 date: 30/04/20
 """
 
+
 class Solution1:
     def fib(self, N: int) -> int:
         if N == 0:
